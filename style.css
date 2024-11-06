@@ -1,0 +1,63 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.main{
+    margin:4vw 15vw ;
+    padding:3vw;
+    border:solid black 2px;
+   display:flex;
+
+}
+
+h3,p,h5,li{color:aliceblue}
+.leftside{margin-top: 7vw;
+   padding: 2vw;
+    width:35%;
+    background-color: rgb(17, 17, 117);
+    display: flex;
+    flex-direction: column;
+    gap:1vw
+}
+.rightside{}
+.profile{color:black}
+.field{color:rgb(17, 17, 117)}
+.profileheading{color:rgb(17, 17, 117)}
+.merge{display:flex; 
+    flex-direction: row;
+    gap:1vw
+}
+.underline{width:18vw;
+    height:0.3vw;
+    background-color: white;
+    border: 1px solid white;
+}
+.experienceheading{color:rgb(17, 17, 117)}
+.references{
+    margin-top:114vh;
+    color:rgb(17, 17, 117)}
+.referenceline{color: black;}
+.middle{margin-top:3vw;
+    gap: 1vw;
+padding:1vw;
+display: flex;
+flex-direction: column;}
+.underline1{width:12vw;
+    height:0.3vw;
+    background-color:black;
+    border: 1px solid black ;}
+    .firstsec{display: flex;
+    flex-direction: column;
+    gap:1vw
+}
+.middlesec{display: flex;
+    flex-direction: column;
+    gap:1vw
+}
+.lastsec{display: flex;
+    flex-direction: column;
+    gap:1vw
+}
+.worktime {margin:  0.5vw 3vw;}
+.workposition{margin:0.5vw 3vw; ;}
+.names{margin-left: 4vw;}
+.field{margin-left: 4vw;}
